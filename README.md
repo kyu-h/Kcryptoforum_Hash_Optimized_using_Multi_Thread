@@ -1,5 +1,5 @@
 # Kcryptoforum_Hash_Optimized_using_Multi_Thread
-SHA-3(Keccak) &amp; LSH
+For SHA-3(Keccak) DRBG optimized. but if have some time, i will try to do SHA-3 HMAC DRBG also
 <br>
 
 How to search OpenMP on the eclipse ?!<br>
