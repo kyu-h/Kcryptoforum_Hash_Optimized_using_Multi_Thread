@@ -1,0 +1,8 @@
+15:45:25 **** Rebuild of configuration Debug for project openmp_test ****
+Info: Internal Builder is used for build
+gcc -fopenmp -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\openmp_test.o" "..\\src\\openmp_test.c" 
+gcc -fopenmp -o openmp_test.exe "src\\openmp_test.o" 
+gcc: error: libgomp.spec: No such file or directory
+
+15:45:25 Build Finished (took 392ms)
+

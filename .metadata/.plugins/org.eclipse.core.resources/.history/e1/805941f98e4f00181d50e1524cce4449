@@ -1,0 +1,5 @@
+Algo_ID = HMAC_SHA3-224
+Key_Set = 1
+4a656665
+Message = 1
+"Hi There"

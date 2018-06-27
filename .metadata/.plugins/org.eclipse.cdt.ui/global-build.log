@@ -1,0 +1,9 @@
+16:07:27 **** Rebuild of configuration Debug for project SHA3_HMAC_Optimized ****
+Info: Internal Builder is used for build
+gcc -fopenmp -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SHA3_HMAC_Optimized.o" "..\\src\\SHA3_HMAC_Optimized.c" 
+gcc -fopenmp -o SHA3_HMAC_Optimized.exe "src\\SHA3_HMAC_Optimized.o" 
+Info: Nothing to build for SHA3_HMAC_Optimized
+16:13:09 **** Rebuild of configuration Debug for project SHA3_HMAC_Optimized ****
+Info: Internal Builder is used for build
+gcc -fopenmp -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SHA3_HMAC_Optimized.o" "..\\src\\SHA3_HMAC_Optimized.c" 
+gcc -fopenmp -o SHA3_HMAC_Optimized.exe "src\\SHA3_HMAC_Optimized.o" 

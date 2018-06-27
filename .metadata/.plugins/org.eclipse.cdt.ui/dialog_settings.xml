@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Default C source template" key="LastUsedSourceTemplate"/>
+	<item value="Default C header template" key="LastUsedHeaderTemplate"/>
+	<section name="org.eclipse.cdt.ui.OPEN_ACTION_SELECTION_DIALOG_SECTION">
+		<item value="462" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="575" key="DIALOG_HEIGHT"/>
+		<item value="1009" key="DIALOG_X_ORIGIN"/>
+		<item value="366" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="false" key="caseSensitive"/>
+		<item value="227191" key="searchFlags"/>
+		<list key="previousPatterns">
+			<item value="hmac_digest"/>
+			<item value="STATE_MAX_SIZE_256"/>
+			<item value="DRBG_LSH_Context"/>
+			<item value="string*:"/>
+			<item value="drbg_hash_update"/>
+			<item value="drbg_ctr_update"/>
+			<item value="randomdrbg"/>
+			<item value="drbg"/>
+			<item value="hash_drbg"/>
+			<item value="keccak?c"/>
+			<item value="keccak"/>
+			<item value="mbedtls_ctr_drbg_update"/>
+			<item value="drbg_init"/>
+			<item value="ctr_drbg"/>
+			<item value="hmac_drbg"/>
+			<item value="MBEDTLS_CTR_DRBG_C"/>
+			<item value="mbedtls_ctr_drbg_self_test"/>
+			<item value="sha512_ctx"/>
+			<item value="main"/>
+			<item value="hmac_lsh_init"/>
+			<item value="tot_len"/>
+			<item value="0x36"/>
+			<item value="KeccakF1600_StateXORBytesInLane"/>
+			<item value="SHA224_DIGEST_SIZE"/>
+			<item value="SHA2_TEST"/>
+			<item value="printf"/>
+			<item value="H:"/>
+			<item value="hmac_sha224_reinit"/>
+			<item value="계속하려면"/>
+			<item value="IETF"/>
+			<item value="shortMsgKAT"/>
+			<item value="getKATC"/>
+		</list>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.includebrowser.IBViewPart">
+		<item value="false" key="showFolders"/>
+		<item value="false" key="systemFilter"/>
+		<item value="false" key="includedBy"/>
+		<item value="false" key="inactiveFilter"/>
+	</section>
+</section>

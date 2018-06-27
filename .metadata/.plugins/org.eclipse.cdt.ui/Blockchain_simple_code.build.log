@@ -1,0 +1,9 @@
+15:23:30 **** Incremental Build of configuration Debug for project Blockchain_simple_code ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex-address.o" "..\\src\\ex-address.c" 
+In file included from ..\src\ex-address.c:2:0:
+..\src\base58.h:5:24: fatal error: openssl/bn.h: No such file or directory
+compilation terminated.
+
+15:23:30 Build Finished (took 219ms)
+

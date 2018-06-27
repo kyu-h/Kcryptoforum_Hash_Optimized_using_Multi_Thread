@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SHA3_HMAC_PBKDF/test/hmac_drbg.c&apos; to &apos;hmac_pbkdf.c&apos;" description="Rename resource &apos;hmac_drbg.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="test/hmac_drbg.c" name="hmac_pbkdf.c" stamp="1529983656368" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SHA3_HMAC_PBKDF/test/hmac_drbg.h&apos; to &apos;hmac_pbkdf.h&apos;" description="Rename resource &apos;hmac_drbg.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="test/hmac_drbg.h" name="hmac_pbkdf.h" stamp="1529983665244" updateReferences="true"/>
+</session>

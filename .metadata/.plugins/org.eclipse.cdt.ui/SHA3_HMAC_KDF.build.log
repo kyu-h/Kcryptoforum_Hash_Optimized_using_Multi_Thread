@@ -1,0 +1,45 @@
+14:22:51 **** Incremental Build of configuration Debug for project SHA3_HMAC_KDF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "test\\hmac_kdf.o" "..\\test\\hmac_kdf.c" 
+..\test\hmac_kdf.c: In function 'kdf_sha3_hmac_dp':
+..\test\hmac_kdf.c:19:6: warning: implicit declaration of function 'ceil' [-Wimplicit-function-declaration]
+  n = ceil(L_len/h_len);
+      ^
+..\test\hmac_kdf.c:19:6: warning: incompatible implicit declaration of built-in function 'ceil'
+..\test\hmac_kdf.c:19:6: note: include '<math.h>' or provide a declaration of 'ceil'
+..\test\hmac_kdf.c:21:10: warning: implicit declaration of function 'pow' [-Wimplicit-function-declaration]
+  if(n > (pow(2, r) - 1)){
+          ^
+..\test\hmac_kdf.c:21:10: warning: incompatible implicit declaration of built-in function 'pow'
+..\test\hmac_kdf.c:21:10: note: include '<math.h>' or provide a declaration of 'pow'
+..\test\hmac_kdf.c:55:4: warning: implicit declaration of function 'hmac_digest' [-Wimplicit-function-declaration]
+    hmac_digest(capacity / 2, rate, capacity, Kl, Kl_len, a_input_data, a_num, a_input_data);
+    ^
+..\test\hmac_kdf.c:11:6: warning: unused variable 'num' [-Wunused-variable]
+  int num = 0;
+      ^
+..\test\hmac_kdf.c: In function 'kdf_sha3_hmac_fb':
+..\test\hmac_kdf.c:96:6: warning: incompatible implicit declaration of built-in function 'ceil'
+  n = ceil(L_len/h_len);
+      ^
+..\test\hmac_kdf.c:96:6: note: include '<math.h>' or provide a declaration of 'ceil'
+..\test\hmac_kdf.c:98:10: warning: incompatible implicit declaration of built-in function 'pow'
+  if(n > (pow(2, r) - 1)){
+          ^
+..\test\hmac_kdf.c:98:10: note: include '<math.h>' or provide a declaration of 'pow'
+..\test\hmac_kdf.c:90:6: warning: unused variable 'num' [-Wunused-variable]
+  int num = 0;
+      ^
+..\test\hmac_kdf.c: In function 'kdf_sha3_hmac_ctr':
+..\test\hmac_kdf.c:165:6: warning: incompatible implicit declaration of built-in function 'ceil'
+  n = ceil(L_len/h_len);
+      ^
+..\test\hmac_kdf.c:165:6: note: include '<math.h>' or provide a declaration of 'ceil'
+..\test\hmac_kdf.c:167:10: warning: incompatible implicit declaration of built-in function 'pow'
+  if(n > (pow(2, r) - 1)){
+          ^
+..\test\hmac_kdf.c:167:10: note: include '<math.h>' or provide a declaration of 'pow'
+gcc -o SHA3_HMAC_KDF.exe "test\\KeccakHash.o" "test\\KeccakP-1600-compact64.o" "test\\KeccakSpongeWidth1600.o" "test\\SimpleFIPS202.o" "test\\drbg.o" "test\\genKAT.o" "test\\hmac.o" "test\\hmac_kdf.o" "test\\main.o" 
+
+14:22:51 Build Finished (took 593ms)
+

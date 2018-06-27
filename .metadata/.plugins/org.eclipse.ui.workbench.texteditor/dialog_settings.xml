@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="932" key="DIALOG_X_ORIGIN"/>
+		<item value="497" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="8f62f635ca956a33f69da303b719de3848bf3f23c37dd6be1c1ed230a7ca51f7" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="8f62f635ca956a33f69da303b719de3848bf3f23c37dd6be1c1ed230a7ca51f7"/>
+			<item value="92a1d882e9f56d0b5075a5900a2c28ce1afe1905df3bdd601a22cd3d63aa0307"/>
+			<item value="j"/>
+			<item value="dec1fac151fad856b5e1d06c279dc2c32c8ef347a11cab1c49770c83c7374b75"/>
+			<item value="1e1f202102fad856b5e1d06c279dc2c32c8ef347a11cab1c49770c83c7374b75"/>
+			<item value="13d254e4c844af7f936ddcbad32058c54cbed6f285c19550ca66d99b240bbb43"/>
+			<item value="b240bbb43"/>
+			<item value="3d254e4c844af7f936ddcbad32058c54cbed6f285c19550ca66d"/>
+			<item value="101112131415161718191A1B1C1D1E1F2021"/>
+			<item value="672cc3dde5b787a3d6fef1a939c301450663d4c297d21cf2927be0407f0e79f8"/>
+			<item value="Keccak"/>
+			<item value="31F31D7E2C5B17393CACE8BF058402C6317AF4B06F0D9118BBDB4FABE114ED39"/>
+			<item value="B84E35B8FA83E9E6D11FF85109493D78F5A02E056C290759118C256CD781AFD4]"/>
+			<item value="B84E35B8FA83E9E6D11FF85109493D78F5A02E056C290759118C256CD781AFD4"/>
+			<item value="F8731D00230571268A86075471BDDF987F447888C280F0D6F4D66C25FD1CBA1B"/>
+		</list>
+		<list key="replacehistory">
+			<item value="DRBG_SHA3_Context"/>
+			<item value="drbg_sha3_reseed"/>
+			<item value="drbg_sha3_output_gen"/>
+			<item value="drbg_sha3_digest"/>
+			<item value="drbg_sha3_init"/>
+			<item value="drbg_sha3_inner_output_gen"/>
+			<item value="BitSequence"/>
+			<item value="unsigned int"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="340" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1414" key="DIALOG_X_ORIGIN"/>
+		<item value="376" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

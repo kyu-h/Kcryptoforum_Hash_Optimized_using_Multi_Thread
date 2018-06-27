@@ -1,0 +1,16 @@
+17:35:40 **** Rebuild of configuration Debug for project DES ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "des\\main.o" "..\\des\\main.c" 
+..\des\main.c: In function 'main':
+..\des\main.c:8:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+     #pragma omp parallel private(nthreads, tid)
+ ^
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "des\\des.o" "..\\des\\des.c" 
+gcc -o DES.exe "des\\des.o" "des\\main.o" 
+des\main.o: In function `main':
+C:\Users\kyu\eclipse-workspace\DES\Debug/../des/main.c:12: undefined reference to `omp_get_thread_num'
+C:\Users\kyu\eclipse-workspace\DES\Debug/../des/main.c:17: undefined reference to `omp_get_num_threads'
+collect2.exe: error: ld returned 1 exit status
+
+17:35:41 Build Finished (took 1s.506ms)
+
